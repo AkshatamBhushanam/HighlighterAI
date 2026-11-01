@@ -1,0 +1,16 @@
+# API keys and secrets
+.env
+.streamlit/secrets.toml
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE files
+.idea/
+.vscode/
